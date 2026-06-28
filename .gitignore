@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+
+# InsightFace model cache (downloaded automatically - very large files)
+~/.insightface/
+
+# Face database - contains personal biometric data, do NOT commit
+live_face_db/*.jpg
+live_face_db/*.jpeg
+live_face_db/*.png
+
+# NumPy embeddings - personal biometric data
+*.npy
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
