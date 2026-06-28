@@ -18,7 +18,7 @@
 
 <br/>
 
-![CerbroMark Banner](https://raw.githubusercontent.com/Ronin-117/Automated_attendance/main/GIF.gif)
+![CerbroMark Banner](https://raw.githubusercontent.com/Automated_attendance/main/GIF.gif)
 
 </div>
 
